@@ -1,4 +1,4 @@
-# Nginx в Docker с HTTPS и статической страницей
+# Лаб 7. Docker basics
 
 ## Описание задачи
 
