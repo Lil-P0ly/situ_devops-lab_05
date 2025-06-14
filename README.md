@@ -53,3 +53,5 @@ docker run -p 54321:443 -v ./certs:/etc/ssl --name nginx-ssl -tid nginx-situ-lab
 ```bash
 ./update.sh
 ```
+## Демонстрация работы
+![Снимок экрана от 2025-06-14 18-49-42](https://github.com/user-attachments/assets/fc8a41ff-b4c9-42d5-9f63-52202e99b09b)
